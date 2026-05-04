@@ -31,7 +31,7 @@ Student result
 
 ### 🏫 School Website
 Complete school website (Home, Admission, Results)  
-🔗 https://your-link-here
+🔗  https://shafqatmshad-ai.github.io/gbhs-awera/
 
 ---
 
