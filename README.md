@@ -24,8 +24,8 @@ Online student admission form with clean UI
 ---
 
 ### 📊 Result System
-Student result / gazette system  
-🔗 https://your-link-here
+Student result   
+🔗  https://shafqatmshad-ai.github.io/class-result/
 
 ---
 
