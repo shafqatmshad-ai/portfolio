@@ -59,7 +59,7 @@ Complete school website (Home, Admission, Results)
 
 Feel free to contact me for work:
 
-* https://www.fiverr.com/users/shafqatmehmo829
+* fiverr: https://www.fiverr.com/users/shafqatmehmo829
 * GitHub: https://github.com/shafqatmshad-ai
 
 ---
